@@ -2,7 +2,7 @@
 
 **Overview**
 
-The goal is to analyze temperature trends using data on temperatuer for the months of june and December in Oahu, HI. The ultimate goal is the determination of the viability for an ice cream shop.
+The goal is to analyze temperature trends using data on temperature for the months of june and December in Oahu, HI. The ultimate goal is the determination of the viability for an ice cream shop in the area. 
 
 Data was selected for the period covering 2010 to the present for the months under review (June and December). 
 
